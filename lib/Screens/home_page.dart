@@ -1,5 +1,8 @@
 import 'package:facebookui/Constants/colors.dart';
+import 'package:facebookui/Screens/fifth_page.dart';
 import 'package:facebookui/Screens/second_page.dart';
+import 'package:facebookui/Screens/sixth_page.dart';
+import 'package:facebookui/Screens/third_page.dart';
 import 'package:facebookui/Widgets/first_page/app_bar_actions.dart';
 import 'package:flutter/material.dart';
 
@@ -48,7 +51,10 @@ class _HomePageState extends State<HomePage> {
           children: [
             FirstPage(),
             SecondPage(),
+            ThirdPage(),
             FourthPage(),
+            FifthPage(),
+            SixthPage(),
           ],
         ),
       ),

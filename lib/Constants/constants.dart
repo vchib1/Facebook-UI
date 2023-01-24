@@ -30,7 +30,7 @@ const List<String> names = [
 const List<UserInfoModel> userInfoModel = [
   UserInfoModel(firstLine: "Studied at ", secondLine: "Doaba College, Jalandhar", icon: Icons.school),
   UserInfoModel(firstLine: "Went to ", secondLine: "MCS Raja Ka Bagh", icon: Icons.school),
-  UserInfoModel(firstLine: "Lives in ", secondLine: "Gurgoan, Haryana", icon: Icons.home),
+  UserInfoModel(firstLine: "Lives in ", secondLine: "Gurgaon, Haryana", icon: Icons.home),
   UserInfoModel(firstLine: "From ", secondLine: "Nurpur, Kangra (H.P), India", icon: Icons.home),
   UserInfoModel(firstLine: "Single ", secondLine: "", icon: Icons.heart_broken),
   UserInfoModel(firstLine: "Followed by ", secondLine: "148 People", icon: Icons.check_box),
